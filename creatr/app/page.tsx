@@ -371,7 +371,7 @@ const Home = () => {
             <Link href="/feed">
               <Button
                 variant="outline"
-                size="xl"
+                size="lg"
                 className="rounded-full w-full px-6"
               >
                 Explore the Feed
